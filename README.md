@@ -8,7 +8,6 @@ Built project with:
  - CSS
  - JavaScript
  - SQL Database
- - Syncfusion Components
    
 ## Screenshot of the project     
 __Landing Page__    
